@@ -393,6 +393,7 @@
 - [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [AWK](https://github.com/freznicek/awesome-awk#readme) - The AWK language is useful for manipulation of data files, text retrieval and processing, and for prototyping and experimenting with algorithms.
 
 ## Front-End Development
 
